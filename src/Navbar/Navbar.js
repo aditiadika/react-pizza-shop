@@ -20,7 +20,7 @@ const Logo = styled(Title)`
 export function Navbar() {
   return (
     <NavbarStyled>
-      <Logo>Sliceline</Logo>
+      <Logo>Sliceline - Pizza Restaurant</Logo>
     </NavbarStyled>
   );
 }
